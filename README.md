@@ -16,9 +16,10 @@
 ## About Me
  
 - 🎓 B.E Computer Science @ **NIE Mysore** 
-- 🎨 Building AI-powered interfaces with **React, Streamlit, and FastAPI**
+- 🎨 Building AI-powered interfaces with **React, FastAPI, and modern LLM tooling**
 - 🤖 Exploring **GenAI, agentic workflows, and LLM-powered tools** using LangGraph & LangChain
 - 🔧 Comfortable across the stack — from **REST APIs and Django** to **n8n automations**
+- 🌱 Currently leveling up in **Multi-agent systems with LangGraph, and production-grade cloud deployment**
 
 ---
 
