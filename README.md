@@ -12,7 +12,7 @@
 
 ## About Me
  
-- 🎓 B.E Computer Science @ **NIE Mysore** | CGPA: **9.056**
+- 🎓 B.E Computer Science @ **NIE Mysore** 
 - 🎨 Building AI-powered interfaces with **React, Streamlit, and FastAPI**
 - 🤖 Exploring **GenAI, agentic workflows, and LLM-powered tools** using LangGraph & LangChain
 - 🔧 Comfortable across the stack — from **REST APIs and Django** to **n8n automations**
