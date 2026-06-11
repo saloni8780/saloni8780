@@ -19,7 +19,6 @@
 - 🎨 Building AI-powered interfaces with **React, Streamlit, and FastAPI**
 - 🤖 Exploring **GenAI, agentic workflows, and LLM-powered tools** using LangGraph & LangChain
 - 🔧 Comfortable across the stack — from **REST APIs and Django** to **n8n automations**
-- 🌱 Currently getting deeper into **RAG pipelines, multi-agent systems, and cloud deployment**
 
 ---
 
