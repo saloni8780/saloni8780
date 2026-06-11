@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 My Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ Simple search engine ranking internship/job listings based on skill relevance us
 
 ---
 
-## 🏆 Proof of Work
+## 🏆 Highlights
 
 🥇 **1st Place** — Innovation Design Thinking Hackathon | Team project: AI-based neonatal jaundice detection system (92% accuracy, 500+ medical samples)  
 🎓 **FAER Scholar 2024–25** — Selected for academic excellence and innovation  
