@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
 
-<h1 align="center">Saloni Kumari</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Saloni%20Kumari&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55" />
+</p>
 
 <p align="center">
   🎨 Frontend &nbsp;·&nbsp; 🤖 GenAI &nbsp;·&nbsp; ⚡ Agentic Systems
@@ -100,3 +102,5 @@ Simple search engine ranking internship/job listings based on skill relevance us
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saloni8780)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/HmFXJO4dfO/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salonik20202020@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
