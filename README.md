@@ -1,12 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
+
 <h1 align="center">Saloni Kumari</h1>
- 
+
 <p align="center">
   🎨 Frontend &nbsp;·&nbsp; 🤖 GenAI &nbsp;·&nbsp; ⚡ Agentic Systems
 </p>
 <p align="center">
   <i>Turning prompts into products and ideas into interfaces.</i>
 </p>
-<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BFFD6&center=true&width=435&lines=Frontend+Developer;GenAI+Explorer;Agentic+Systems+Builder;LangChain+%26+LangGraph+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
