@@ -11,13 +11,12 @@
 ---
 
 ## About Me
-
-- 🎓 B.E Computer Science @ **NIE Mysore** 
-- 🤖 Passionate about **Deep Learning, Agentic AI, and AI Infrastructure**
-- 🔧 Building production-ready systems using **LangGraph, RAG, FastAPI, and multi-agent architectures**
-- 💡 Keen interest in **backend engineering, AI deployment, and real-world problem solving**
-- 🏥 Built healthcare AI systems for **embedded medical inference**
-- 🌱 Currently exploring **n8n workflows, LLM pipelines & cloud deployment**
+ 
+- 🎓 B.E Computer Science @ **NIE Mysore** | CGPA: **9.056**
+- 🎨 Building AI-powered interfaces with **React, Streamlit, and FastAPI**
+- 🤖 Exploring **GenAI, agentic workflows, and LLM-powered tools** using LangGraph & LangChain
+- 🔧 Comfortable across the stack — from **REST APIs and Django** to **n8n automations**
+- 🌱 Currently getting deeper into **RAG pipelines, multi-agent systems, and cloud deployment**
 
 ---
 
@@ -65,9 +64,8 @@ Simple search engine ranking internship/job listings based on skill relevance us
 
 ## 🏆 Proof of Work
 
-🥇 **1st Place** — Innovation Design Thinking Hackathon for AI-based neonatal jaundice detection system (92% classification accuracy on 500+ medical samples)  
+🥇 **1st Place** — Innovation Design Thinking Hackathon | Team project: AI-based neonatal jaundice detection system (92% accuracy, 500+ medical samples) 
 🎓 **FAER Scholar 2024–25** — Selected for academic excellence and innovation  
-🏅 **Best Performer** — Basic Electronics Engineering (BEE) & Innovation Design Thinking (IDT)  
 🌟 **Hacktoberfest 2024 Level 4** — 9+ open-source contributions, 4 merged pull requests  
 🤝 **GSSoC '24 Extended** — Collaborated on real-world open-source projects  
 📜 **Postman API Fundamentals Student Expert**
@@ -86,6 +84,10 @@ Simple search engine ranking internship/job listings based on skill relevance us
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saloni8780&theme=tokyonight&background=0d1117&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/saloni8780/saloni8780/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
