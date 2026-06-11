@@ -64,7 +64,7 @@ Simple search engine ranking internship/job listings based on skill relevance us
 
 ## 🏆 Proof of Work
 
-🥇 **1st Place** — Innovation Design Thinking Hackathon | Team project: AI-based neonatal jaundice detection system (92% accuracy, 500+ medical samples) 
+🥇 **1st Place** — Innovation Design Thinking Hackathon | Team project: AI-based neonatal jaundice detection system (92% accuracy, 500+ medical samples)  
 🎓 **FAER Scholar 2024–25** — Selected for academic excellence and innovation  
 🌟 **Hacktoberfest 2024 Level 4** — 9+ open-source contributions, 4 merged pull requests  
 🤝 **GSSoC '24 Extended** — Collaborated on real-world open-source projects  
@@ -87,7 +87,7 @@ Simple search engine ranking internship/job listings based on skill relevance us
 </p>
 
 <p align="center">
-  <img src="https://github.com/saloni8780/saloni8780/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/saloni8780/saloni8780/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
