@@ -1,7 +1,11 @@
-<h1 align="center">👋 Hey, I'm Saloni Kumari</h1>
-
-<h3 align="center">🧠 Building intelligent systems with AI, Agentic Workflows & Scalable Backend Engineering</h3>
-
+<h1 align="center">Saloni Kumari</h1>
+ 
+<p align="center">
+  🎨 Frontend &nbsp;·&nbsp; 🤖 GenAI &nbsp;·&nbsp; ⚡ Agentic Systems
+</p>
+<p align="center">
+  <i>Turning prompts into products and ideas into interfaces.</i>
+</p>
 <br/>
 
 ---
