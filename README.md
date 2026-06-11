@@ -9,10 +9,6 @@
   <i>Turning prompts into products and ideas into interfaces.</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BFFD6&center=true&width=435&lines=Frontend+Developer;GenAI+Explorer;Agentic+Systems+Builder;LangChain+%26+LangGraph+Enthusiast" alt="Typing SVG" />
-</p>
-
 ---
 
 ## About Me
