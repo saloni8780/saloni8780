@@ -86,9 +86,6 @@ Simple search engine ranking internship/job listings based on skill relevance us
   <img src="https://streak-stats.demolab.com?user=saloni8780&theme=tokyonight&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saloni8780/saloni8780/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
 
 ---
 
